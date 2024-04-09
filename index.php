@@ -1,4 +1,5 @@
 <?php
+require_once "utils.php";
 $twits = [
     [
         "texto" => "En un lugar de la Mancha...",
